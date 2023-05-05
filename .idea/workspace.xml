@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ece31c0-c73f-45c8-9706-259a545acb1a" name="Changes" comment="Scratch Pad">
-      <change afterPath="$PROJECT_DIR$/src/codeGym/l17c03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeGym/l17c03c2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeGym/l17c03c3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeGym/l17c04c1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeGym/l17c4c2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +73,7 @@
       <updated>1680543381497</updated>
       <workItem from="1680808303400" duration="5480000" />
       <workItem from="1681049568982" duration="286000" />
-      <workItem from="1683212298562" duration="1951000" />
+      <workItem from="1683212298562" duration="3661000" />
     </task>
     <task id="LOCAL-00001" summary="Scratch Pad">
       <created>1680544714299</created>
