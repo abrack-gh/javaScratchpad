@@ -1,6 +1,5 @@
-package codeGym.Level17;
+package codeGym.Level17WorkingWithDateTime;
 
-import java.sql.Time;
 import java.time.LocalTime;
 
 /*
