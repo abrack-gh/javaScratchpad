@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ece31c0-c73f-45c8-9706-259a545acb1a" name="Changes" comment="Scratch Pad">
-      <change afterPath="$PROJECT_DIR$/src/codeGym/Level18/Astronaut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeGym/Level18/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeGym/Level18/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeGym/Level18/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeGym/Level18/l1805_MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeGym/Level18/l18l04_Space_Odyssey_Part1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeGym/Level18/l18l04_Space_Odyssey_Part2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeGym/Level18/l18l04_Space_Odyssey_Part3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeGym/Level18/L18L7_Interfaces1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeGym/Level18/l18l6_Abstract_Classes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeGym/Level18/l18l6_Abstract_Classes_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
